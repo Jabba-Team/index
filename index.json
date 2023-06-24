@@ -1938,6 +1938,7 @@
             },
             "jdk@mandrel": {
                 "21": "zip+https://api.foojay.io/disco/v3.0/ids/019d4c0b72873cef51babfffe20c9c4d/redirect",
+                "23": "zip+https://api.foojay.io/disco/v3.0/ids/7de15fd182fba759c11f9058b8d43332/redirect",
                 "22.3.2": "zip+https://api.foojay.io/disco/v3.0/ids/7f70c2c481fcd833e30d983980841431/redirect",
                 "22.3.2-1": "zip+https://api.foojay.io/disco/v3.0/ids/966764337f8cb82f6892aa3c06a98d94/redirect",
                 "22.3.1": "zip+https://api.foojay.io/disco/v3.0/ids/1a2c5bf31e15728b65ba912e621bda61/redirect",
@@ -1962,6 +1963,7 @@
                 "20.3.1-2": "zip+https://api.foojay.io/disco/v3.0/ids/e4add49fc5d98d96ee1e465c7b436589/redirect",
                 "20.3.1-1": "zip+https://api.foojay.io/disco/v3.0/ids/e93ac2dd6840560af7a28c01087bac88/redirect",
                 "20.3": "zip+https://api.foojay.io/disco/v3.0/ids/178de06a591e3a7801be815a5a8e1436/redirect",
+                "1.23.0-0": "zip+https://api.foojay.io/disco/v3.0/ids/7de15fd182fba759c11f9058b8d43332/redirect",
                 "1.22.3-2": "zip+https://api.foojay.io/disco/v3.0/ids/7f70c2c481fcd833e30d983980841431/redirect",
                 "1.22.3-1": "zip+https://api.foojay.io/disco/v3.0/ids/1a2c5bf31e15728b65ba912e621bda61/redirect",
                 "1.22.3-0": "zip+https://api.foojay.io/disco/v3.0/ids/51dad1f0ca0cb3ba2497a64e06ca44d6/redirect",
