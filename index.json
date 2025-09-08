@@ -5204,7 +5204,6 @@
         },
         "amd64": {
             "jdk@zulu_prime": {
-                "19": "tgz+https://api.foojay.io/disco/v3.0/ids/abfe3aa7ca782c64b531b5a9225c4463/redirect",
                 "23.0.2": "tgz+https://api.foojay.io/disco/v3.0/ids/bf8815bb1af86dee9836d06c3227ff21/redirect",
                 "21.0.7": "tgz+https://api.foojay.io/disco/v3.0/ids/7500aad5273f542126f2ecde1d396770/redirect",
                 "21.0.6": "tgz+https://api.foojay.io/disco/v3.0/ids/6fda77dc384224509e0e931a6123c3ea/redirect",
@@ -5232,7 +5231,6 @@
                 "13.0.11": "tgz+https://api.foojay.io/disco/v3.0/ids/dea9d2744c7e36de6422e954b2a0383d/redirect",
                 "13.0.10": "tgz+https://api.foojay.io/disco/v3.0/ids/d50f2b1b23ecf45a5a23aa18689bbca8/redirect",
                 "13.0.8": "tgz+https://api.foojay.io/disco/v3.0/ids/d38d77caaae9d4325534d81c93b2bd73/redirect",
-                "13.0.7": "tgz+https://api.foojay.io/disco/v3.0/ids/993fb6e103858d74477f8ba1bddf458a/redirect",
                 "13.0.4": "tgz+https://api.foojay.io/disco/v3.0/ids/b787bc5e3848bd4e8ea9de5089722a75/redirect",
                 "11.0.27": "tgz+https://api.foojay.io/disco/v3.0/ids/ad171fb093bec3c70bc40b27f8574c46/redirect",
                 "11.0.22": "tgz+https://api.foojay.io/disco/v3.0/ids/dece278a01356fef5e87b94671c47e39/redirect",
@@ -5272,7 +5270,6 @@
                 "1.21.0-2": "tgz+https://api.foojay.io/disco/v3.0/ids/2f8f9266acc2f8a5bd2596b3aef03b55/redirect",
                 "1.21.0-1": "tgz+https://api.foojay.io/disco/v3.0/ids/c84bd04b78de34bf7b88d5d595f3f6da/redirect",
                 "1.19.0-2": "tgz+https://api.foojay.io/disco/v3.0/ids/6b0af184ea31d294aba1d10b9b3c1b1a/redirect",
-                "1.19.0-0": "tgz+https://api.foojay.io/disco/v3.0/ids/abfe3aa7ca782c64b531b5a9225c4463/redirect",
                 "1.17.0-15": "tgz+https://api.foojay.io/disco/v3.0/ids/00f645c3a16ae2fa0e01f7bdeb23b8d5/redirect",
                 "1.17.0-7": "tgz+https://api.foojay.io/disco/v3.0/ids/62d525e6110f1f25c8da5afc34eebd50/redirect",
                 "1.17.0-6": "tgz+https://api.foojay.io/disco/v3.0/ids/6d9c84b7ae6c933148340c5b3c957d89/redirect",
@@ -5293,7 +5290,6 @@
                 "1.13.0-11": "tgz+https://api.foojay.io/disco/v3.0/ids/dea9d2744c7e36de6422e954b2a0383d/redirect",
                 "1.13.0-10": "tgz+https://api.foojay.io/disco/v3.0/ids/d50f2b1b23ecf45a5a23aa18689bbca8/redirect",
                 "1.13.0-8": "tgz+https://api.foojay.io/disco/v3.0/ids/d38d77caaae9d4325534d81c93b2bd73/redirect",
-                "1.13.0-7": "tgz+https://api.foojay.io/disco/v3.0/ids/993fb6e103858d74477f8ba1bddf458a/redirect",
                 "1.13.0-4": "tgz+https://api.foojay.io/disco/v3.0/ids/b787bc5e3848bd4e8ea9de5089722a75/redirect",
                 "1.11.0-27": "tgz+https://api.foojay.io/disco/v3.0/ids/ad171fb093bec3c70bc40b27f8574c46/redirect",
                 "1.11.0-22": "tgz+https://api.foojay.io/disco/v3.0/ids/dece278a01356fef5e87b94671c47e39/redirect",
